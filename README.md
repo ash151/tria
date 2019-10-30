@@ -1,0 +1,2 @@
+# tria
+For checking installation
